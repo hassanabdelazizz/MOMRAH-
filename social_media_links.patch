@@ -1,7 +1,7 @@
-diff --git web/modules/contrib/social_media_links/src/Plugin/SocialMediaLinks/Platform/Linkedin.php web/modules/contrib/social_media_links/src/Plugin/SocialMediaLinks/Platform/Linkedin.php
+diff --git a/web/modules/contrib/social_media_links/src/Plugin/SocialMediaLinks/Platform/Linkedin.php b/web/modules/contrib/social_media_links/src/Plugin/SocialMediaLinks/Platform/Linkedin.php
 index 660b6e7..e717d3e 100644
---- web/modules/contrib/social_media_links/src/Plugin/SocialMediaLinks/Platform/Linkedin.php
-+++ web/modules/contrib/social_media_links/src/Plugin/SocialMediaLinks/Platform/Linkedin.php
+--- a/web/modules/contrib/social_media_links/src/Plugin/SocialMediaLinks/Platform/Linkedin.php
++++ b/web/modules/contrib/social_media_links/src/Plugin/SocialMediaLinks/Platform/Linkedin.php
 @@ -10,7 +10,7 @@
   * @Platform(
   *   id = "linkedin",
